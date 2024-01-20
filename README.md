@@ -46,4 +46,24 @@ This web application is designed to help fitness trainers efficiently manage cli
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to start the development server.
 
-Feel free to explore the application and enhance the code as needed!
+
+
+## PICS
+![mm1](https://github.com/R-Bishnoi/entnt/assets/99094650/824b602e-e571-4da0-a929-6ac27ec665fc)
+![mm2](https://github.com/R-Bishnoi/entnt/assets/99094650/358a80e6-7cb4-4ef8-bdab-b080dac44ce6)
+![mm3](https://github.com/R-Bishnoi/entnt/assets/99094650/df4f3a1f-f1c8-44f7-a404-64bd69ed5586)
+![mm4](https://github.com/R-Bishnoi/entnt/assets/99094650/8601b654-09a7-47f6-9659-d98abe5447ac)
+![mm5](https://github.com/R-Bishnoi/entnt/assets/99094650/94198058-6f62-4d6f-a187-4349bb57aa6b)
+![mm6](https://github.com/R-Bishnoi/entnt/assets/99094650/f9288d23-6e16-4dea-a7fe-920b53d4efc6)
+
+
+
+
+
+
+
+
+
+
+
+
