@@ -36,7 +36,7 @@ This web application is designed to help fitness trainers efficiently manage cli
 - Informative error messages and notifications for successful actions.
 - Feedback on the outcome of actions.
 
-### Calendar Page (Bonus)
+### Calendar Page
 - Convenient calendar view for fitness trainers.
 - Visible by clicking the "Show Calendar" button on the initial page.
 - Each appointment entry on the calendar displays the client's name for easy reference.
